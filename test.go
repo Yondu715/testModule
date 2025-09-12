@@ -1,5 +1,0 @@
-package testModule
-
-func Test() {
-
-}
