@@ -1,1 +1,5 @@
 package testModule
+
+func Test() {
+
+}
