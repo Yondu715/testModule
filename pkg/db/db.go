@@ -1,4 +1,4 @@
-package test
+package db
 
 import (
 	"database/sql"
@@ -26,6 +26,10 @@ type Userdata struct {
 	Name        string
 	Surname     string
 	Description string
+}
+
+func PrintHelloWorld() {
+	fmt.Println("Hello World")
 }
 
 func openConnection() (*sql.DB, error) {
