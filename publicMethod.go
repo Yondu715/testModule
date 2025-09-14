@@ -9,3 +9,7 @@ func PublicMethod() {
 func OtherPublicMethod() {
 	fmt.Println("OtherPublic method called")
 }
+
+func ThirdPublicMethod() {
+	fmt.Println("Third Public method called")
+}
