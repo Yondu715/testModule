@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"testModule/test"
+
+	"github.com/Yondu715/testModule/internal/test"
 )
 
 func main() {
