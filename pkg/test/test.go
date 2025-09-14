@@ -1,4 +1,4 @@
-package testModule
+package test
 
 import (
 	"database/sql"
@@ -12,7 +12,7 @@ import (
 // Connection details
 var (
 	Hostname = ""
-	Port     = 2345
+	Port     = 5432
 	Username = ""
 	Password = ""
 	Database = ""
