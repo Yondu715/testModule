@@ -2,6 +2,6 @@ package testModule
 
 import "fmt"
 
-func publicMethod() {
+func PublicMethod() {
 	fmt.Println("Public method called")
 }
