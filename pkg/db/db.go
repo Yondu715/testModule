@@ -25,7 +25,7 @@ The definitions of the tables in the PostgreSQL server are:
 
 This is not rendered as code
 */
-package document
+package db
 
 // BUG(1): Function ListUsers() not working as expected
 // BUG(2): Function AddUser() is too slow
